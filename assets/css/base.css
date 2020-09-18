@@ -1,0 +1,21 @@
+* {
+    box-sizing: inherit;
+    background-color: rgb(250, 250, 250);
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.8rem;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+.grid {
+    width: 100%;
+    display: block;
+}
+
+.grid.wide {
+    max-width: 935px;
+    margin: 0 auto;
+}

@@ -1,0 +1,15 @@
+html {
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fafafa;
+}
+
+p {
+  margin: 0;
+}
